@@ -1,0 +1,2081 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157819217@s.whatsapp.net',
+    fromMe: false,
+    id: '1B5C11AF433A5C78A490C6946B8E64A8',
+    participant: undefined
+  },
+  messageTimestamp: 1714066037,
+  pushName: 'moiplata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Okey',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Okey',
+  from: '573157819217'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115393463@s.whatsapp.net',
+    fromMe: false,
+    id: '54E00524C6CBEA9B8482C779BF2EF0FE',
+    participant: undefined
+  },
+  messageTimestamp: 1714066054,
+  pushName: 'Jorge Pinzon',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¡Hola! Podrías darme más información de...comparendos',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¡Hola! Podrías darme más información de...comparendos',
+  from: '573115393463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  keyword: 'key_117a6a5c-5283-4267-8231-6acbc520faea',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ec1e0ac231469905c25230c332fd502b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  keyword: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  answer: '¡Nos alegra mucho tenerte aquí! 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'adf72f9281a65831284ff81d76d6eced'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  keyword: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  answer: 'Soy Daniela Sanchez, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '745760884563073f80a7b47987f65343'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d8c7fa6b-d6ef-4f36-b5e5-f7d0613d17ec',
+  keyword: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  answer: '1. Movilidad y transito🚗🚧\n2. Otro servicio💻📲\n3. Reclamos O Soporte📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '540f43bbfd5599e962a83c7862326d44'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115393463@s.whatsapp.net',
+    fromMe: false,
+    id: '8A6139AC82D078AD11FBF06D90D86505',
+    participant: undefined
+  },
+  messageTimestamp: 1714066081,
+  pushName: 'Jorge Pinzon',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573115393463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e45b11fb-e611-4ef6-8a9c-a296de4617e8',
+  keyword: 'key_112762b4-4f3c-4879-ba44-52e6a98d281d',
+  answer: 'En Transita +, nos especializamos en simplificar tus trámites de tránsito. Nuestro equipo de expertos está dedicado a eliminar tus comparendos y resolver cualquier problema relacionado con tu historial de conducción. Con un enfoque rápido, confiable y transparente, estamos aquí para brindarte la tranquilidad y el apoyo que necesitas en el camino. ¡Déjanos ocuparnos de los detalles para que puedas seguir adelante sin preocupaciones!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2acc7a5b26599e2d9a5d869b14d7bdbd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_774ff6b9-8a12-45ab-bde1-d7dfc1fced94',
+  keyword: 'ans_e45b11fb-e611-4ef6-8a9c-a296de4617e8',
+  answer: '¿Qué servicio deseas realizar?\n' +
+    '*-Multas y comparendos*\n' +
+    '*-Cambio de estado de licencia*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d0722a2343f61651bcb0f520d84dd54'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115393463@s.whatsapp.net',
+    fromMe: false,
+    id: '180FB8C68A112C24DF5BF91FE98B5FBE',
+    participant: undefined
+  },
+  messageTimestamp: 1714066107,
+  pushName: 'Jorge Pinzon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Multas y comparendos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Multas y comparendos',
+  from: '573115393463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a9738a59-9434-42b3-8a90-19b567b1f6e0',
+  keyword: 'key_61d088e1-638d-4356-b327-4e17cb528bb0',
+  answer: 'En nuestro servicio de Multas, Comparendos y Acuerdos de Pago, nos encargamos de resolver tus problemas de tránsito de manera rápida y efectiva. Nos especializamos en la gestión y eliminación de multas, comparendos y acuerdos de pago. Con un equipo experto y dedicado, te ofrecemos soluciones personalizadas para recuperar tu historial de conducción y garantizar tu tranquilidad en la carretera.\n' +
+    'La limpieza del estado de cuenta tiene un tiempo aproximado de 3 horas aproximadamente o menos dependiendo de la complejidad del registro de la infracción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c1bbf85af94084a3766071bb34e93e60'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1ebf6b44-f30b-4759-b352-11f348047c46',
+  keyword: 'ans_a9738a59-9434-42b3-8a90-19b567b1f6e0',
+  answer: '¿Deseas realizar el servicio?\n*-Si, deseo iniciar*\n*-No gracias*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '490ceaeef840d24ac9f8b297a2dd7230'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115393463@s.whatsapp.net',
+    fromMe: false,
+    id: '576D1B4F877182288941C74CA9939C20',
+    participant: undefined
+  },
+  messageTimestamp: 1714066129,
+  pushName: 'Jorge Pinzon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si deseo iniciar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si deseo iniciar',
+  from: '573115393463'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7722c26f-12e7-46b6-85e0-099c8facc1ba',
+  keyword: 'key_bff0fd24-2b98-48e1-abf4-2330e8c58ed1',
+  answer: 'Para que le demos inicio al servicio deberás digitar tu cedula. En este momento ya tienes un numero de ticket y un especialista ya se comunicara contigo.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ed1a2e39caf31cb1a672b0ac27accaf2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115393463@s.whatsapp.net',
+    fromMe: false,
+    id: '09A3CF5CFD1598CCDB4D34BF8AFA15AC',
+    participant: undefined
+  },
+  messageTimestamp: 1714066151,
+  pushName: 'Jorge Pinzon',
+  broadcast: false,
+  message: Message {
+    conversation: '11340874',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '11340874',
+  from: '573115393463'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: '07DE7DAC2723DA6BB3C3625F5285E562',
+    participant: undefined
+  },
+  messageTimestamp: 1714066414,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    conversation: 'No tiene Bancolombia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No tiene Bancolombia',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: 'B94919A24FEEA1731B77C26FF424CAE1',
+    participant: undefined
+  },
+  messageTimestamp: 1714066630,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/35317664_1149795656434980_1424068460904479157_n.enc?ccb=11-4&oh=01_Q5AaIGzCRWdHHmb8KkzuJU_9hrNSUqcY3DVJCX_PlwR3iPXw&oe=6651FA9E&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 7,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/35317664_1149795656434980_1424068460904479157_n.enc?ccb=11-4&oh=01_Q5AaIGzCRWdHHmb8KkzuJU_9hrNSUqcY3DVJCX_PlwR3iPXw&oe=6651FA9E&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__3223f0bb-d0bc-4dd3-95cd-ed42f183e7d6',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157819217@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAFE0FD068E901F4726BEE4F17931592',
+    participant: undefined
+  },
+  messageTimestamp: 1714066744,
+  pushName: 'moiplata',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/29954513_753829199888195_5170557036626069869_n.enc?ccb=11-4&oh=01_Q5AaIAujlPDm6ng0MpbtF9Ppls7mbY9HLCmwUb4eRn9WKLGv&oe=66520F90&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 558,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/29954513_753829199888195_5170557036626069869_n.enc?ccb=11-4&oh=01_Q5AaIAujlPDm6ng0MpbtF9Ppls7mbY9HLCmwUb4eRn9WKLGv&oe=66520F90&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__6da9922b-2215-4bdf-8010-36ae885c2b5e',
+  from: '573157819217'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157819217@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB67F5BC8C718C3A9FC02B254034E02',
+    participant: undefined
+  },
+  messageTimestamp: 1714066750,
+  pushName: 'moiplata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Aquí me aparece todavía',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aquí me aparece todavía',
+  from: '573157819217'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '6B5C2294DA0BD17989E84F527C1CD55A',
+    participant: undefined
+  },
+  messageTimestamp: 1714066845,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/35867032_975234473718683_425274650545333387_n.enc?ccb=11-4&oh=01_Q5AaIHCR5JD4IZkZO7VV6FICYU5UbVR5WxzjnnZZLrNOn_KW&oe=6652125C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'A mi a un me aparacen',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 900,
+      width: 1600,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/35867032_975234473718683_425274650545333387_n.enc?ccb=11-4&oh=01_Q5AaIHCR5JD4IZkZO7VV6FICYU5UbVR5WxzjnnZZLrNOn_KW&oe=6652125C&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__a55a01f5-8c0b-4473-9f16-c51440d5273a',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157819217@s.whatsapp.net',
+    fromMe: false,
+    id: '57EEC47C82303916A3D34F22B56C0939',
+    participant: undefined
+  },
+  messageTimestamp: 1714066931,
+  pushName: 'moiplata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya le cancelo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya le cancelo',
+  from: '573157819217'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157819217@s.whatsapp.net',
+    fromMe: false,
+    id: '400CD12A71D67A0730B1D999FB678394',
+    participant: undefined
+  },
+  messageTimestamp: 1714066936,
+  pushName: 'moiplata',
+  broadcast: false,
+  message: Message {
+    conversation: 'No nequi estoy buscando alguien q tenga para q me ague el favor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No nequi estoy buscando alguien q tenga para q me ague el favor',
+  from: '573157819217'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: 'A24758AEE50E68B394E6DF9DB9990244',
+    participant: undefined
+  },
+  messageTimestamp: 1714066953,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como así',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como así',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157819217@s.whatsapp.net',
+    fromMe: false,
+    id: 'F82061D79E4CEEE769A4531253A29C49',
+    participant: undefined
+  },
+  messageTimestamp: 1714066961,
+  pushName: 'moiplata',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Okey gracias',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Okey gracias',
+  from: '573157819217'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '8F1C5526737EBA3818A9C5B8768B0369',
+    participant: undefined
+  },
+  messageTimestamp: 1714067028,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y no hay forma de yo verificar antes de cancelar?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y no hay forma de yo verificar antes de cancelar?',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '2C3DFAA9CD65A89582B1F6AF3AC204B3',
+    participant: undefined
+  },
+  messageTimestamp: 1714067104,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'O si me envían esto a mi correo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'O si me envían esto a mi correo',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112670368@s.whatsapp.net',
+    fromMe: false,
+    id: '20BEE2D1DD7874E7A7C62ECF5C30F663',
+    participant: undefined
+  },
+  messageTimestamp: 1714067114,
+  pushName: 'Siempre Firme',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573112670368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112670368@s.whatsapp.net',
+    fromMe: false,
+    id: '20BEE2D1DD7874E7A7C62ECF5C30F663',
+    participant: undefined
+  },
+  messageTimestamp: 1714067115,
+  pushName: 'Siempre Firme',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¡Hola! Podrías darme más información de...',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¡Hola! Podrías darme más información de...',
+  from: '573112670368'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  keyword: 'key_117a6a5c-5283-4267-8231-6acbc520faea',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ec1e0ac231469905c25230c332fd502b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  keyword: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  answer: '¡Nos alegra mucho tenerte aquí! 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'adf72f9281a65831284ff81d76d6eced'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  keyword: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  answer: 'Soy Daniela Sanchez, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '745760884563073f80a7b47987f65343'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d8c7fa6b-d6ef-4f36-b5e5-f7d0613d17ec',
+  keyword: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  answer: '1. Movilidad y transito🚗🚧\n2. Otro servicio💻📲\n3. Reclamos O Soporte📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '540f43bbfd5599e962a83c7862326d44'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112670368@s.whatsapp.net',
+    fromMe: false,
+    id: '8FDC9B50888B0D34FE0A14A4C1C3DC8B',
+    participant: undefined
+  },
+  messageTimestamp: 1714067134,
+  pushName: 'Siempre Firme',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573112670368'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e45b11fb-e611-4ef6-8a9c-a296de4617e8',
+  keyword: 'key_112762b4-4f3c-4879-ba44-52e6a98d281d',
+  answer: 'En Transita +, nos especializamos en simplificar tus trámites de tránsito. Nuestro equipo de expertos está dedicado a eliminar tus comparendos y resolver cualquier problema relacionado con tu historial de conducción. Con un enfoque rápido, confiable y transparente, estamos aquí para brindarte la tranquilidad y el apoyo que necesitas en el camino. ¡Déjanos ocuparnos de los detalles para que puedas seguir adelante sin preocupaciones!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2acc7a5b26599e2d9a5d869b14d7bdbd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_774ff6b9-8a12-45ab-bde1-d7dfc1fced94',
+  keyword: 'ans_e45b11fb-e611-4ef6-8a9c-a296de4617e8',
+  answer: '¿Qué servicio deseas realizar?\n' +
+    '*-Multas y comparendos*\n' +
+    '*-Cambio de estado de licencia*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d0722a2343f61651bcb0f520d84dd54'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573157819217@s.whatsapp.net',
+    fromMe: false,
+    id: '9CC8ECFBD48D2BCDCCDDBB8C46E34815',
+    participant: undefined
+  },
+  messageTimestamp: 1714067150,
+  pushName: 'moiplata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya estoy en eso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya estoy en eso',
+  from: '573157819217'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112670368@s.whatsapp.net',
+    fromMe: false,
+    id: 'CEEF7516E3F004730D351AD721D7628F',
+    participant: undefined
+  },
+  messageTimestamp: 1714067166,
+  pushName: 'Siempre Firme',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573112670368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112670368@s.whatsapp.net',
+    fromMe: false,
+    id: '7214277AB8A3FC83E0D4CB579D29DED8',
+    participant: undefined
+  },
+  messageTimestamp: 1714067192,
+  pushName: 'Siempre Firme',
+  broadcast: false,
+  message: Message {
+    conversation: '-multas y comparendos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '-multas y comparendos',
+  from: '573112670368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '4DACC0D06E87FCD1BA5ED26505213B68',
+    participant: undefined
+  },
+  messageTimestamp: 1714067213,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Me puedes por favor enviar este video con la dirección del link',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Me puedes por favor enviar este video con la dirección del link',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: 'A00CFD73DA4DBB74F8BE3268AFD66E03',
+    participant: undefined
+  },
+  messageTimestamp: 1714067277,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Es que la verdad así no me da confianza',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Es que la verdad así no me da confianza',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '24631F13FD5438AC8498D53450414B89',
+    participant: undefined
+  },
+  messageTimestamp: 1714067286,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y ya una vez me estafaron similar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y ya una vez me estafaron similar',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '8FE5E18F535923377F7833AA7AF85B94',
+    participant: undefined
+  },
+  messageTimestamp: 1714067292,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'O tienen alguna sede presencial?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'O tienen alguna sede presencial?',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: '5F254D9A2251878309DA932070E9F0BC',
+    participant: undefined
+  },
+  messageTimestamp: 1714067338,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19154903_722157846498688_3544327048229764373_n.enc?ccb=11-4&oh=01_Q5AaIH87jQ5vl8bSkydG0ao0XXpH-4AaZ04KTCu1m6XDN4SQ&oe=66521ABB&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 6,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19154903_722157846498688_3544327048229764373_n.enc?ccb=11-4&oh=01_Q5AaIH87jQ5vl8bSkydG0ao0XXpH-4AaZ04KTCu1m6XDN4SQ&oe=66521ABB&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__ed641ac1-04b0-4ea6-94c4-966e998c426c',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: 'B27A1DE76D36D68DDA3140FA6B656E7A',
+    participant: undefined
+  },
+  messageTimestamp: 1714067426,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'La dirección me da a una fruteria',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'La dirección me da a una fruteria',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '139554F63DE8D1606195171BAC04A534',
+    participant: undefined
+  },
+  messageTimestamp: 1714067456,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'No yo tengo un amigo en villavo le voy a decir que vaya presencialmente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No yo tengo un amigo en villavo le voy a decir que vaya presencialmente',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '14F3645898B729C83581A895A8AA0A99',
+    participant: undefined
+  },
+  messageTimestamp: 1714067553,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Vale perfecto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Vale perfecto',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204127889@s.whatsapp.net',
+    fromMe: false,
+    id: 'ECA8DAC81B325D7811C91BA3933121AD',
+    participant: undefined
+  },
+  messageTimestamp: 1714067604,
+  pushName: 'Jeison Urrego',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573204127889'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204127889@s.whatsapp.net',
+    fromMe: false,
+    id: 'ECA8DAC81B325D7811C91BA3933121AD',
+    participant: undefined
+  },
+  messageTimestamp: 1714067605,
+  pushName: 'Jeison Urrego',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¡Hola! Podrías darme más información de...',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¡Hola! Podrías darme más información de...',
+  from: '573204127889'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  keyword: 'key_117a6a5c-5283-4267-8231-6acbc520faea',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ec1e0ac231469905c25230c332fd502b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  keyword: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  answer: '¡Nos alegra mucho tenerte aquí! 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'adf72f9281a65831284ff81d76d6eced'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  keyword: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  answer: 'Soy Daniela Sanchez, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '745760884563073f80a7b47987f65343'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d8c7fa6b-d6ef-4f36-b5e5-f7d0613d17ec',
+  keyword: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  answer: '1. Movilidad y transito🚗🚧\n2. Otro servicio💻📲\n3. Reclamos O Soporte📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '540f43bbfd5599e962a83c7862326d44'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: '5492FA1BE09B257968D041B0D2FD283D',
+    participant: undefined
+  },
+  messageTimestamp: 1714067773,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/23212600_1671693823567516_6245092975926399795_n.enc?ccb=11-4&oh=01_Q5AaIDfPgWDW_bp92KF7kV4cXaRAQDh9ARPQvOkl4JfCzcBX&oe=66520BC9&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/23212600_1671693823567516_6245092975926399795_n.enc?ccb=11-4&oh=01_Q5AaIDfPgWDW_bp92KF7kV4cXaRAQDh9ARPQvOkl4JfCzcBX&oe=66520BC9&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__deab2142-7ea9-43e4-913f-68ef1fd922b7',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573053444660@s.whatsapp.net',
+    fromMe: false,
+    id: '0A55013D7CFBA3D78C6823F7B30E7C50',
+    participant: undefined
+  },
+  messageTimestamp: 1714067777,
+  pushName: '😎',
+  broadcast: false,
+  message: Message {
+    conversation: '?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '?',
+  from: '573053444660'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: 'E720634A61337311697C61337A55963C',
+    participant: undefined
+  },
+  messageTimestamp: 1714067894,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233238049@s.whatsapp.net',
+    fromMe: false,
+    id: '979A08A68394BDEDBA5C5A697D5A9BCA',
+    participant: undefined
+  },
+  messageTimestamp: 1714068021,
+  pushName: 'Erneison 🏍️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¡Hola! Podrías darme más información de...',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¡Hola! Podrías darme más información de...',
+  from: '573233238049'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  keyword: 'key_117a6a5c-5283-4267-8231-6acbc520faea',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ec1e0ac231469905c25230c332fd502b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  keyword: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  answer: '¡Nos alegra mucho tenerte aquí! 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'adf72f9281a65831284ff81d76d6eced'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  keyword: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  answer: 'Soy Daniela Sanchez, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '745760884563073f80a7b47987f65343'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d8c7fa6b-d6ef-4f36-b5e5-f7d0613d17ec',
+  keyword: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  answer: '1. Movilidad y transito🚗🚧\n2. Otro servicio💻📲\n3. Reclamos O Soporte📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '540f43bbfd5599e962a83c7862326d44'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134903580@s.whatsapp.net',
+    fromMe: false,
+    id: '441EF785E2F2EB1DA42988C97ED8E0A6',
+    participant: undefined
+  },
+  messageTimestamp: 1714068041,
+  pushName: 'Yin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Están atendiendo hoy?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Están atendiendo hoy?',
+  from: '573134903580'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233238049@s.whatsapp.net',
+    fromMe: false,
+    id: '3B902A5F9BC50BFF4199158AA184132F',
+    participant: undefined
+  },
+  messageTimestamp: 1714068064,
+  pushName: 'Erneison 🏍️',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573233238049'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e45b11fb-e611-4ef6-8a9c-a296de4617e8',
+  keyword: 'key_112762b4-4f3c-4879-ba44-52e6a98d281d',
+  answer: 'En Transita +, nos especializamos en simplificar tus trámites de tránsito. Nuestro equipo de expertos está dedicado a eliminar tus comparendos y resolver cualquier problema relacionado con tu historial de conducción. Con un enfoque rápido, confiable y transparente, estamos aquí para brindarte la tranquilidad y el apoyo que necesitas en el camino. ¡Déjanos ocuparnos de los detalles para que puedas seguir adelante sin preocupaciones!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2acc7a5b26599e2d9a5d869b14d7bdbd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_774ff6b9-8a12-45ab-bde1-d7dfc1fced94',
+  keyword: 'ans_e45b11fb-e611-4ef6-8a9c-a296de4617e8',
+  answer: '¿Qué servicio deseas realizar?\n' +
+    '*-Multas y comparendos*\n' +
+    '*-Cambio de estado de licencia*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d0722a2343f61651bcb0f520d84dd54'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233238049@s.whatsapp.net',
+    fromMe: false,
+    id: 'E3F0B3D4042291FD474D4327B0F30509',
+    participant: undefined
+  },
+  messageTimestamp: 1714068076,
+  pushName: 'Erneison 🏍️',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573233238049'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233238049@s.whatsapp.net',
+    fromMe: false,
+    id: '4FB70EDD3285AB7230D3AE2CB7CA7C66',
+    participant: undefined
+  },
+  messageTimestamp: 1714068137,
+  pushName: 'Erneison 🏍️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo es q no puede anticipos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo es q no puede anticipos',
+  from: '573233238049'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573116877950@s.whatsapp.net',
+    fromMe: false,
+    id: 'D85FD9538201025E15D113D3402998F7',
+    participant: undefined
+  },
+  messageTimestamp: 1714068546,
+  pushName: 'Agustín  Ferreteria Tibu',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573116877950'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573116877950@s.whatsapp.net',
+    fromMe: false,
+    id: 'D85FD9538201025E15D113D3402998F7',
+    participant: undefined
+  },
+  messageTimestamp: 1714068547,
+  pushName: 'Agustín  Ferreteria Tibu',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¡Hola! Me gustaría obtener más información. ¿Puedo hacerte algunas preguntas?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¡Hola! Me gustaría obtener más información. ¿Puedo hacerte algunas preguntas?',
+  from: '573116877950'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  keyword: 'key_117a6a5c-5283-4267-8231-6acbc520faea',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ec1e0ac231469905c25230c332fd502b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  keyword: 'ans_daa3d2c4-874f-44f2-8b73-acb2cb18671c',
+  answer: '¡Nos alegra mucho tenerte aquí! 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'adf72f9281a65831284ff81d76d6eced'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  keyword: 'ans_26e2a6a9-ac7a-4436-8e7e-be5cf1031136',
+  answer: 'Soy Daniela Sanchez, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '745760884563073f80a7b47987f65343'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d8c7fa6b-d6ef-4f36-b5e5-f7d0613d17ec',
+  keyword: 'ans_9bd38cbe-c427-42d6-bf09-9c4ab2a8b7f1',
+  answer: '1. Movilidad y transito🚗🚧\n2. Otro servicio💻📲\n3. Reclamos O Soporte📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '540f43bbfd5599e962a83c7862326d44'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573116877950@s.whatsapp.net',
+    fromMe: false,
+    id: 'B3557672E2CCF41C7D3CF4DE18A140CB',
+    participant: undefined
+  },
+  messageTimestamp: 1714068556,
+  pushName: 'Agustín  Ferreteria Tibu',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573116877950'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e45b11fb-e611-4ef6-8a9c-a296de4617e8',
+  keyword: 'key_112762b4-4f3c-4879-ba44-52e6a98d281d',
+  answer: 'En Transita +, nos especializamos en simplificar tus trámites de tránsito. Nuestro equipo de expertos está dedicado a eliminar tus comparendos y resolver cualquier problema relacionado con tu historial de conducción. Con un enfoque rápido, confiable y transparente, estamos aquí para brindarte la tranquilidad y el apoyo que necesitas en el camino. ¡Déjanos ocuparnos de los detalles para que puedas seguir adelante sin preocupaciones!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2acc7a5b26599e2d9a5d869b14d7bdbd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_774ff6b9-8a12-45ab-bde1-d7dfc1fced94',
+  keyword: 'ans_e45b11fb-e611-4ef6-8a9c-a296de4617e8',
+  answer: '¿Qué servicio deseas realizar?\n' +
+    '*-Multas y comparendos*\n' +
+    '*-Cambio de estado de licencia*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d0722a2343f61651bcb0f520d84dd54'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573116877950@s.whatsapp.net',
+    fromMe: false,
+    id: '75D1E04C2F174CF43AA965DD0A411BD1',
+    participant: undefined
+  },
+  messageTimestamp: 1714068576,
+  pushName: 'Agustín  Ferreteria Tibu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cambio de licencia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cambio de licencia',
+  from: '573116877950'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_21b0809d-456a-419b-83ed-bd2a4b10fb08',
+  keyword: 'key_32d7922c-1895-4580-aea3-eee42b13a8fb',
+  answer: 'En nuestro servicio de Cambio de Estado de Licencia, nos ocupamos de facilitar y agilizar el proceso de actualización de tu licencia de conducir. Ya sea quitar suspensiones en tu licencia, nuestro equipo está aquí para ayudarte. Nos encargamos de todos los trámites. Con un enfoque rápido y confiable, te ofrecemos la tranquilidad de saber que tu licencia está en orden y lista para cualquier situación en la carretera. ¡Déjanos cuidar de los detalles para que puedas seguir adelante con confianza!\n' +
+    'Estas son nuestras políticas de nuestro servicio:\n' +
+    '* El cambio del estado de la licencia tiene un tiempo aproximado de 3 horas aproximadamente o menos dependiendo de la complejidad del registro de la infracción.\n' +
+    '* Es de aclarar que para nosotros iniciemos con el servicio deberás tener el saldo suficiente para cancelar el servicio.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a16298211565276fc7c46f2831796001'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b44ea06c-4ffc-4a68-b222-a00326224617',
+  keyword: 'ans_21b0809d-456a-419b-83ed-bd2a4b10fb08',
+  answer: '¿Deseas realizar el servicio?\n-Si, deseo iniciar\n-No gracias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9f63901bc02f51ec43188ff2c42d8581'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573116877950@s.whatsapp.net',
+    fromMe: false,
+    id: '18AA90AD3F6493145C3323A1CFB8D6DA',
+    participant: undefined
+  },
+  messageTimestamp: 1714068616,
+  pushName: 'Agustín  Ferreteria Tibu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pero tengo un comparando',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero tengo un comparando',
+  from: '573116877950'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573116877950@s.whatsapp.net',
+    fromMe: false,
+    id: '49552614B36CB76A61F4D5E1ED100756',
+    participant: undefined
+  },
+  messageTimestamp: 1714068625,
+  pushName: 'Agustín  Ferreteria Tibu',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    editedMessage: FutureProofMessage { message: [Message] }
+  },
+  body: '',
+  from: '573116877950'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: '60C088A70C8EA88AD8CA1AD3D9CF187A',
+    participant: undefined
+  },
+  messageTimestamp: 1714069164,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    conversation: 'Listo o q',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Listo o q',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: '009E1F74E01142B76B8108F2D5EB0A67',
+    participant: undefined
+  },
+  messageTimestamp: 1714069791,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    conversation: 'Estoy esperando la repuesta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Estoy esperando la repuesta',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: 'F2DBB842583DED753EADAB3F9D3E28FE',
+    participant: undefined
+  },
+  messageTimestamp: 1714069798,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si ya o no',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si ya o no',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573053444660@s.whatsapp.net',
+    fromMe: false,
+    id: '2E8C15A3CE4D4F47F72A8D75500B334C',
+    participant: undefined
+  },
+  messageTimestamp: 1714072002,
+  pushName: '😎',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok gracias voy a validar si alcanzan a colaborarme hoy',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok gracias voy a validar si alcanzan a colaborarme hoy',
+  from: '573053444660'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573227851344@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB269D4B8DC86025542',
+    participant: undefined
+  },
+  messageTimestamp: 1714072365,
+  pushName: 'Alejandro Vargas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas tardes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Alejandro Vargas',
+  body: 'Buenas tardes',
+  from: '573227851344'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: '02BA0E7664B4244F954FB7A2ACFD6839',
+    participant: undefined
+  },
+  messageTimestamp: 1714072864,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y entonces',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y entonces',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573114126978@s.whatsapp.net',
+    fromMe: false,
+    id: '0DE8F3F22EE1EF6A52FE54367F67245E',
+    participant: undefined
+  },
+  messageTimestamp: 1714072995,
+  pushName: '☺️😍😌🥸😎',
+  broadcast: false,
+  message: Message {
+    conversation: '1100395136',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1100395136',
+  from: '573114126978'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233238049@s.whatsapp.net',
+    fromMe: false,
+    id: '8BD24FF9235AC15D4EB4DE908C089C15',
+    participant: undefined
+  },
+  messageTimestamp: 1714073991,
+  pushName: 'Erneison 🏍️',
+  broadcast: false,
+  message: Message {
+    conversation: '79501821',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '79501821',
+  from: '573233238049'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233238049@s.whatsapp.net',
+    fromMe: false,
+    id: '3860A900BE738FFBFC87EC889E661AE3',
+    participant: undefined
+  },
+  messageTimestamp: 1714074296,
+  pushName: 'Erneison 🏍️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '573233238049'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: '6627397DBD65EFF96F9F81F10F787A59',
+    participant: undefined
+  },
+  messageTimestamp: 1714074305,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bueno q paso ya me eliminastes la multa o q me dijo q 15 minutos ya llegó una hora',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bueno q paso ya me eliminastes la multa o q me dijo q 15 minutos ya llegó una hora',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208623934@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD3DCE21DE0F4C4D8BB736E53F59C3C8',
+    participant: undefined
+  },
+  messageTimestamp: 1714074314,
+  pushName: 'undres322😁',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y me deja en visto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y me deja en visto',
+  from: '573208623934'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112670368@s.whatsapp.net',
+    fromMe: false,
+    id: '765EAA0B2A8CA14E5CA4784A1D60D3A3',
+    participant: undefined
+  },
+  messageTimestamp: 1714074454,
+  pushName: 'Siempre Firme',
+  broadcast: false,
+  message: Message {
+    conversation: '1004803979',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1004803979',
+  from: '573112670368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233238049@s.whatsapp.net',
+    fromMe: false,
+    id: '0AABF65277C8A47454B69D5FC267E0CA',
+    participant: undefined
+  },
+  messageTimestamp: 1714074471,
+  pushName: 'Erneison 🏍️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '573233238049'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573116877950@s.whatsapp.net',
+    fromMe: false,
+    id: '8DC85823512C0B0698FF68E85D1CF3A9',
+    participant: undefined
+  },
+  messageTimestamp: 1714074673,
+  pushName: 'Agustín  Ferreteria Tibu',
+  broadcast: false,
+  message: Message {
+    conversation: '91510443',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '91510443',
+  from: '573116877950'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573116877950@s.whatsapp.net',
+    fromMe: false,
+    id: '87A072A22E672D1CA59F7391E54A5A7C',
+    participant: undefined
+  },
+  messageTimestamp: 1714074762,
+  pushName: 'Agustín  Ferreteria Tibu',
+  broadcast: false,
+  message: Message {
+    conversation: '91510443',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '91510443',
+  from: '573116877950'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112670368@s.whatsapp.net',
+    fromMe: false,
+    id: 'A111D0A41DB69F5F440D4F1ACB50B262',
+    participant: undefined
+  },
+  messageTimestamp: 1714074819,
+  pushName: 'Siempre Firme',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si señor',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si señor',
+  from: '573112670368'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573102609721@s.whatsapp.net',
+    fromMe: false,
+    id: 'F3D269BF4D96A6D4F20F1DC5A56C692E',
+    participant: undefined
+  },
+  messageTimestamp: 1714075089,
+  pushName: '🐂',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que se debe Aser en estos casos muchas gracias tengo suspendida la licencia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que se debe Aser en estos casos muchas gracias tengo suspendida la licencia',
+  from: '573102609721'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573227851344@s.whatsapp.net',
+    fromMe: false,
+    id: '3A470838195432C7534C',
+    participant: undefined
+  },
+  messageTimestamp: 1714075111,
+  pushName: 'Alejandro Vargas',
+  broadcast: false,
+  message: Message {
+    conversation: '1118536807',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Alejandro Vargas',
+  body: '1118536807',
+  from: '573227851344'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233238049@s.whatsapp.net',
+    fromMe: false,
+    id: '6BFAC2BD420A8654CB1B3F660FA19D21',
+    participant: undefined
+  },
+  messageTimestamp: 1714075212,
+  pushName: 'Erneison 🏍️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok',
+  from: '573233238049'
+}
